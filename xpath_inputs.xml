@@ -1,0 +1,4 @@
+<file-list>
+        <xpath name="/interfaces/interface/description"/>
+        <xpath name="/interfaces/interface/unit/family/inet/address/name"/>
+</file-list>

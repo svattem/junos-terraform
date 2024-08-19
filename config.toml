@@ -1,0 +1,5 @@
+    yangDir = "/Users/svattem/Desktop/JTAF/junos-terraform/yang_files"
+    providerDir = "/Users/svattem/Desktop/JTAF/junos-terraform/terraform_providers"
+    xpathPath = "/Users/svattem/Desktop/JTAF/junos-terraform/xpath_inputs.xml"
+    providerName = "vsrx"
+    fileType = "both"
