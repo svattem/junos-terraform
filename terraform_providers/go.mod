@@ -1,6 +1,6 @@
 module terraform-provider-junos-vsrx
 
-go 1.22
+go 1.22.5
 
 require (
 	github.com/chrismarget/lambda-tf-registry v0.0.1

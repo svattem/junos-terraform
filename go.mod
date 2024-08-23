@@ -1,6 +1,6 @@
 module github.com/Juniper/junos-terraform
 
-go 1.22.0
+go 1.22.5
 
 require (
 	github.com/BurntSushi/toml v1.2.1

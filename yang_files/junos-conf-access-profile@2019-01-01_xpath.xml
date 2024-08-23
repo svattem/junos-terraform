@@ -1,0 +1,6 @@
+<access-profile> 
+	<xpath>/access-profile</xpath>
+	<access-profile-name> 
+		<xpath>/access-profile/access-profile-name</xpath>
+	</access-profile-name>
+</access-profile>
